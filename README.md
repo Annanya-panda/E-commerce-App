@@ -35,9 +35,3 @@ E-commerce Food delivery app having payment gateways.
 > MONGODB_URL : "" STRIPE_SECRET_KEY : "", FRONTEND_URL : "",
 
 > MY Backend URL : https://backend-mern-kowt.onrender.com
-
-> Backend Environment variables :
-
-> MONGODB_URL : "" STRIPE_SECRET_KEY : "", FRONTEND_URL : "",
-
-> MY Backend URL : https://backend-mern-kowt.onrender.com
